@@ -80,7 +80,7 @@ text-decoration: none;
 }
 
 header {
-    height: calc(100vh - 80px); 
+    height: calc(100vh - 70px); 
     /* i changed this from 100vh to 100%, cos 100vh had a white bar at the bottom */
 }
 
