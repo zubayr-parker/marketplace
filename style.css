@@ -125,6 +125,10 @@ nav {
     height: 70px;
 }
 
+.nav__logo--wrapper {
+    display: flex;
+}
+
 .nav__container {
     display: flex;
     align-items: center;
